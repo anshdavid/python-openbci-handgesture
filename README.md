@@ -1,2 +1,4 @@
-# python-openbci-handgesture
-hand gesture recognition using openbci ganglion board
+PYTHON-OPENBCI-HANDGESTURE `work in progress`
+==========================
+
+Hand gesture recognition using openbci ganglion board
